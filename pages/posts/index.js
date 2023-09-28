@@ -7,6 +7,7 @@ function AllPostsPage(props) {
   return (
     <>
       <Head>
+        <title>All blog posts</title>
         <meta
           name='description'
           content='A list of all web development related blog posts!'
